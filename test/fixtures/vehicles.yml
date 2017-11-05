@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  model: MyString
+  year: MyString
+  full_charge_range: MyString
+  full_charge_time: MyString
+  quick_charge_time: MyString
+  quick_charge_range: MyString
+
+two:
+  make: MyString
+  model: MyString
+  year: MyString
+  full_charge_range: MyString
+  full_charge_time: MyString
+  quick_charge_time: MyString
+  quick_charge_range: MyString

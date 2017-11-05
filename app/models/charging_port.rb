@@ -1,0 +1,2 @@
+class ChargingPort < ApplicationRecord
+end
